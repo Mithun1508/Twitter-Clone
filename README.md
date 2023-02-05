@@ -1,10 +1,5 @@
 # Twitter Clone
 
-An attempt to recreate one of the largest social networking application Twitter.
-
-Track the development progress [here](https://twitter.com/juanwmv/status/1596736405316960261?s=20&t=RWhqOxhx9YquJQ5Slwccyw)
-
-> Note: This is my first attempt at developing a distributed system, so any feedback would be greatly appreciated.
 
 ## Services
 
@@ -48,9 +43,3 @@ Track the development progress [here](https://twitter.com/juanwmv/status/1596736
 1. Metrics and analytics
 2. Notifications
 3. Observability & Monitoring (Prometheus, Grafana, Jaeger, etc)
-
-### Database Schema
-
-# How to run locally
-
-Check [here](RUNNING_LOCALLY.md) on how to run locally
