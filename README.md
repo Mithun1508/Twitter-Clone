@@ -1,5 +1,7 @@
 # Twitter Clone
 
+![Screenshot 2023-02-07 075605](https://user-images.githubusercontent.com/93249038/217132222-5ee046c5-553d-487b-9f04-c99b3f856380.png)
+
 
 ## Services
 
