@@ -57,16 +57,27 @@ NOTE: Not all features from twitter are implemented because of how big Twitter i
 ## Technologies Used
 
 1. Golang (Internal Services)
+
 2. Next.JS (Website UI)
+
 3. Kafka (Pub/Sub)
+
 4. Apache Spark (Analytics)
+
 5. PostgreSQL (Main Database)
+
 6. PgPool II (Database Load Balancer)
+
 7. Redis (Caching)
+
 8. Docker (Containerization)
+
 9. Nginx (Load Balancer)
+
 10. GraphQL (Edge Server / Frontend for Backend)
+
 11. ElasticSearch (Searching & Indexing)
+
 12. Firebase Cloud Messenger (Notification Service)
 
 ## Other languages& Frameworks
@@ -83,6 +94,7 @@ NOTE: Not all features from twitter are implemented because of how big Twitter i
 6 igrate
 
 7 air
+
 8 Amazon Web Service S3
 
 9 Vue 3
@@ -99,18 +111,25 @@ NOTE: Not all features from twitter are implemented because of how big Twitter i
 
 ### Functional Requirements
 1. Create Tweets (text, images, videos, etc)
+
 2. View Timeline
+
 3. Like tweets
+
 4. Retweet / Quote Retweet
+
 5. Follow others
 
 ### Non-Functional Requirements
 1. Scalable & Efficient
+
 2. High Availability
 
 ### Optional Requirements
 1. Metrics and analytics
+
 2. Notifications
+
 3. Observability & Monitoring (Prometheus, Grafana, Jaeger, etc)
 
 ## Improvements
